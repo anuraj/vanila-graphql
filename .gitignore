@@ -477,3 +477,6 @@ $RECYCLE.BIN/
 *.lnk
 
 local.settings.json
+/test-results/
+/playwright-report/
+/playwright/.cache/
